@@ -26,7 +26,6 @@ export function Navigation() {
   // Only include implemented pages
   const navLinks = [
     { href: "/", label: "Home" },
-    { href: "/biography", label: "Biography" },
     { href: "/philanthropy", label: "Philanthropy" },
     { href: "/gvipc/apply", label: "GVIPC Card" },
   ]
